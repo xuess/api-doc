@@ -1,0 +1,23 @@
+{
+  "name": "api-doc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuess/api-doc.git"
+  },
+  "keywords": [
+    "node",
+    "koa"
+  ],
+  "author": "xuess<wuniu2010@126.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xuess/api-doc/issues"
+  },
+  "homepage": "https://github.com/xuess/api-doc#readme"
+}
